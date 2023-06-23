@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxde_ip_raw_packet_send.c:91:7:_nxde_ip_raw_packet_send	48	static,ignoring_inline_asm

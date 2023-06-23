@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_packet_send_fin.c:72:7:_nx_tcp_packet_send_fin	32	static

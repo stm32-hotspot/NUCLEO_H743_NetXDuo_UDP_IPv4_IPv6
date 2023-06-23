@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_icmp_interface_ping6.c:106:7:_nx_icmp_interface_ping6	104	static,ignoring_inline_asm

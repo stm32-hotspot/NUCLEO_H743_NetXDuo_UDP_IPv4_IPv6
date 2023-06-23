@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_socket_thread_suspend.c:84:7:_nx_tcp_socket_thread_suspend	48	static,ignoring_inline_asm

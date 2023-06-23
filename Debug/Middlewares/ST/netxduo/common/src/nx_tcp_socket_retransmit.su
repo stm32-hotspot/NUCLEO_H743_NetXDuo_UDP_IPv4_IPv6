@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_socket_retransmit.c:84:7:_nx_tcp_socket_retransmit	104	static

@@ -1,0 +1,2 @@
+nx_ip_fast_periodic_timer_entry.c:76:14:_nx_ip_fast_periodic_timer_entry	1
+nx_ip_fast_periodic_timer_entry.c:132:6:_nx_ip_fast_periodic_timer_create	2

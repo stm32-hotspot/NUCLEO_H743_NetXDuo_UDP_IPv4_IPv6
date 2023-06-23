@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_packet_send_ack.c:84:7:_nx_tcp_packet_send_ack	32	static

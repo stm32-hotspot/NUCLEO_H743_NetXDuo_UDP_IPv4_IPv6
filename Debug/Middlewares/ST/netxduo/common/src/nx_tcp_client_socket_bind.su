@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_client_socket_bind.c:81:7:_nx_tcp_client_socket_bind	64	static,ignoring_inline_asm

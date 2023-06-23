@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_udp_socket_port_get.c:75:7:_nx_udp_socket_port_get	40	static,ignoring_inline_asm

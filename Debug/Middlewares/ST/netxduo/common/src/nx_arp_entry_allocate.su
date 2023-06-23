@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_arp_entry_allocate.c:76:7:_nx_arp_entry_allocate	48	static,ignoring_inline_asm

@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_packet_pool_delete.c:77:7:_nxe_packet_pool_delete	24	static,ignoring_inline_asm

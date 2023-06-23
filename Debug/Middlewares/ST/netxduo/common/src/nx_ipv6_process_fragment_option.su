@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_ipv6_process_fragment_option.c:85:6:_nx_ipv6_process_fragment_option	48	static,ignoring_inline_asm

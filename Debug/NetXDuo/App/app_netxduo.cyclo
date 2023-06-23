@@ -1,0 +1,3 @@
+app_netxduo.c:67:6:printIPv6	1
+app_netxduo.c:87:6:MX_NetXDuo_Init	14
+app_netxduo.c:254:13:nx_app_thread_entry	5

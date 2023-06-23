@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_rarp_packet_deferred_receive.c:77:7:_nx_rarp_packet_deferred_receive	40	static,ignoring_inline_asm

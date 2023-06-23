@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_packet_send_syn.c:86:7:_nx_tcp_packet_send_syn	48	static

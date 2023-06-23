@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_udp_receive_cleanup.c:76:7:_nx_udp_receive_cleanup	40	static,ignoring_inline_asm

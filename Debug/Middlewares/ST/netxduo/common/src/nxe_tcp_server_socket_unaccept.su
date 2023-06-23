@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_tcp_server_socket_unaccept.c:78:7:_nxe_tcp_server_socket_unaccept	24	static,ignoring_inline_asm

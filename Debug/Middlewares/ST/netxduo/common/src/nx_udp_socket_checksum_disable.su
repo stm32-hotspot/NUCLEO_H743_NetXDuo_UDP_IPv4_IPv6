@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_udp_socket_checksum_disable.c:74:7:_nx_udp_socket_checksum_disable	40	static,ignoring_inline_asm

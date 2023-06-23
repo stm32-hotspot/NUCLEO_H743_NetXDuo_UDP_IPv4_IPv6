@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_tcp_socket_receive_notify.c:80:7:_nxe_tcp_socket_receive_notify	32	static,ignoring_inline_asm

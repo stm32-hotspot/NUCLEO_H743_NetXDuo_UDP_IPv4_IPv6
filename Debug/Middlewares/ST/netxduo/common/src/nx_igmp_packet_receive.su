@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_igmp_packet_receive.c:82:7:_nx_igmp_packet_receive	40	static,ignoring_inline_asm

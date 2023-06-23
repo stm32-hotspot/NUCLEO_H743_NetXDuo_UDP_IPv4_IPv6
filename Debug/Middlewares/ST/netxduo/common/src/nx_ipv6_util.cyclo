@@ -1,0 +1,11 @@
+nx_ipv6_util.c:63:5:CHECK_IP_ADDRESSES_BY_PREFIX	5
+nx_ipv6_util.c:159:5:CHECK_IPV6_ADDRESSES_SAME	5
+nx_ipv6_util.c:348:5:CHECK_UNSPECIFIED_ADDRESS	5
+nx_ipv6_util.c:399:6:SET_UNSPECIFIED_ADDRESS	1
+nx_ipv6_util.c:454:6:COPY_IPV6_ADDRESS	1
+nx_ipv6_util.c:515:6:COPY_NXD_ADDRESS	1
+nx_ipv6_util.c:575:6:SET_SOLICITED_NODE_MULTICAST_ADDRESS	1
+nx_ipv6_util.c:634:5:CHECK_ALL_ROUTER_MCAST_ADDRESS	5
+nx_ipv6_util.c:701:5:CHECK_IPV6_SOLICITED_NODE_MCAST_ADDRESS	14
+nx_ipv6_util.c:789:7:IPv6_Address_Type	26
+nx_ipv6_util.c:930:6:_nx_ipv6_address_change_endian	2

@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_tcp_server_socket_relisten.c:81:7:_nxe_tcp_server_socket_relisten	32	static,ignoring_inline_asm

@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_packet_allocate.c:81:7:_nxe_packet_allocate	32	static,ignoring_inline_asm

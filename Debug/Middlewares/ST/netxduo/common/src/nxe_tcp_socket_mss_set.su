@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_tcp_socket_mss_set.c:78:7:_nxe_tcp_socket_mss_set	32	static,ignoring_inline_asm

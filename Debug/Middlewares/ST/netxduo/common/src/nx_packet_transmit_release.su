@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_packet_transmit_release.c:79:7:_nx_packet_transmit_release	40	static,ignoring_inline_asm

@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_tcp_server_socket_unlisten.c:79:7:_nxe_tcp_server_socket_unlisten	24	static,ignoring_inline_asm

@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_icmp_ping.c:82:7:_nxe_icmp_ping	40	static,ignoring_inline_asm

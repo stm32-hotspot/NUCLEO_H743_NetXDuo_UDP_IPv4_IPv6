@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_socket_transmit_queue_flush.c:76:7:_nx_tcp_socket_transmit_queue_flush	48	static,ignoring_inline_asm

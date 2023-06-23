@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_ip_fragment_disable.c:77:7:_nxe_ip_fragment_disable	32	static,ignoring_inline_asm

@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_arp_gratuitous_send.c:80:7:_nxe_arp_gratuitous_send	32	static,ignoring_inline_asm

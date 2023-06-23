@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_udp_bind_cleanup.c:77:7:_nx_udp_bind_cleanup	48	static,ignoring_inline_asm

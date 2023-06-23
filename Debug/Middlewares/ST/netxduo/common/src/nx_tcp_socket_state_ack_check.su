@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_socket_state_ack_check.c:98:7:_nx_tcp_socket_state_ack_check	96	static,ignoring_inline_asm

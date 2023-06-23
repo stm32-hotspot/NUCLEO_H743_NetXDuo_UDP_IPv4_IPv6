@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_icmpv6_send_queued_packets.c:75:6:_nx_icmpv6_send_queued_packets	80	static,ignoring_inline_asm

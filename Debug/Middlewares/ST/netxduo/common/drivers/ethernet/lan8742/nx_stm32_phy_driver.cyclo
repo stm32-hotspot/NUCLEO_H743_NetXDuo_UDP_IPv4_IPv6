@@ -1,0 +1,9 @@
+nx_stm32_phy_driver.c:43:9:nx_eth_phy_init	2
+nx_stm32_phy_driver.c:65:9:nx_eth_phy_set_link_state	1
+nx_stm32_phy_driver.c:76:9:nx_eth_phy_get_link_state	1
+nx_stm32_phy_driver.c:89:21:nx_eth_phy_get_handle	1
+nx_stm32_phy_driver.c:100:9:lan8742_io_init	1
+nx_stm32_phy_driver.c:117:9:lan8742_io_deinit	1
+nx_stm32_phy_driver.c:129:9:lan8742_io_read_reg	2
+nx_stm32_phy_driver.c:139:9:lan8742_io_write_reg	2
+nx_stm32_phy_driver.c:153:9:lan8742_io_get_tick	1

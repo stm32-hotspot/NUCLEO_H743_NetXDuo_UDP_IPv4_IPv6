@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_tcp_socket_thread_resume.c:87:7:_nx_tcp_socket_thread_resume	40	static,ignoring_inline_asm

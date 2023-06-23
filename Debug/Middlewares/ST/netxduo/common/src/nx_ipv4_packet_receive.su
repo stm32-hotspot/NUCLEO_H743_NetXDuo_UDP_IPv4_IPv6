@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_ipv4_packet_receive.c:84:7:_nx_ipv4_packet_receive	96	static,ignoring_inline_asm

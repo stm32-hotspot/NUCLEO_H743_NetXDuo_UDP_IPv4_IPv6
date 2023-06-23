@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_packet_copy.c:80:7:_nxe_packet_copy	32	static,ignoring_inline_asm

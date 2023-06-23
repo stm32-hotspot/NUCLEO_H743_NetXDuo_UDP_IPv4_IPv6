@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxe_udp_socket_receive.c:80:7:_nxe_udp_socket_receive	32	static,ignoring_inline_asm

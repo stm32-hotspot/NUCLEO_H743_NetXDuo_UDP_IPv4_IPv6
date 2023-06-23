@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nx_ip_driver_packet_send.c:83:7:_nx_ip_driver_packet_send	128	static,ignoring_inline_asm

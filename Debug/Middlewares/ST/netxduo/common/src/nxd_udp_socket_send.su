@@ -1,0 +1,1 @@
+../Middlewares/ST/netxduo/common/src/nxd_udp_socket_send.c:283:7:_nxd_udp_socket_send	104	static,ignoring_inline_asm
